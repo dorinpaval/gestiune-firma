@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1452525086 source:c:\users\dorin\desktop\proiect poo paval\main.cpp
+	<iostream>
+	<fstream>
+	<cstdio>
+	<conio.h>
+	<cstdlib>
+	<cstring>
+	<windows.h>
+	"fisier.h"
+
+1452586792 c:\users\dorin\desktop\proiect poo paval\fisier.h
+
+1516954072 source:c:\users\dorin\desktop\proiect poo paval\fisier.cpp
+	<iostream>
+	<fstream>
+	<cstdio>
+	<string.h>
+	<cstdlib>
+	<conio.h>
+	<cstring>
+	"fisier.h"
+	<windows.h>
+
